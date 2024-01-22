@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Docs-mini-app/static/css/main.a76e4c5a.css",
+    "main.js": "/Docs-mini-app/static/js/main.a8ad61dc.js",
+    "index.html": "/Docs-mini-app/index.html",
+    "main.a76e4c5a.css.map": "/Docs-mini-app/static/css/main.a76e4c5a.css.map",
+    "main.a8ad61dc.js.map": "/Docs-mini-app/static/js/main.a8ad61dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a76e4c5a.css",
+    "static/js/main.a8ad61dc.js"
+  ]
+}
